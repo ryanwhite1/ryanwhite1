@@ -1,5 +1,12 @@
-### Hi there 👋
+## Thanks for visiting! I'm Ryan 🛰
+### About
+I'm an undergraduate student and tutor at the University of Queensland, studying/teaching astrophysics and science. 
+I've developed course materials for UQ's astrophysics program, including a [simulated universe program](https://ryanwhite1.github.io/Simulated-Universe/) written in Python! 
 
+Currently, I'm working on a research project quantifying time dilation in distant supernova lightcurves 🌞 but you'll have to trust me since the code is private!
+
+- 😄 Pronouns: he/him
+- 📫 How to reach me: [email](ryan.white@uq.edu.au) (or show up to class!)
 <!--
 **ryanwhite1/ryanwhite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
