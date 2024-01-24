@@ -1,10 +1,9 @@
 ## Thanks for visiting! I'm Ryan 🛰
 ### About
-I'm an undergraduate student and tutor at the University of Queensland, studying/teaching astrophysics and science. 
+I'm an honours student and tutor at the University of Queensland, studying/teaching astrophysics and science. 
 I've developed course materials for UQ's astrophysics program, including a [simulated universe program](https://ryanwhite1.github.io/Simulated-Universe/) written in Python! 
 
-Currently, I'm working on a research project quantifying time dilation in distant supernova lightcurves 🌞 but you'll have to trust me since the code is private!
-
+Currently I'm working on research projects quantifying time dilation in distant supernova lightcurves 🌞 using the Dark Energy Survey, the migration of stellar-mass black holes and subsequent mergers in active galactic nuclei using Rebound, and the births and deaths of Wolf-Rayet binaries. 
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [email](ryan.white@uq.edu.au) (or show up to class!)
 <!--
