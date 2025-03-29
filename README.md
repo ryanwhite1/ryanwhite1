@@ -1,11 +1,11 @@
 ## Thanks for visiting! I'm Ryan 🛰
 ### About
-I'm an honours student and tutor at the University of Queensland, studying/teaching astrophysics and science. 
-I've developed course materials for UQ's astrophysics program, including a [simulated universe program](https://ryanwhite1.github.io/Simulated-Universe/) written in Python! 
+I'm a masters student and tutor at Macquarie University (Sydney, Aus), studying/teaching astrophysics and science. 
+I've developed course materials for the University of Queensland's astrophysics program, including a [simulated universe program](https://ryanwhite1.github.io/Simulated-Universe/) written in Python! 
 
-Currently I'm working on research projects quantifying time dilation in distant supernova lightcurves 🌞 using the Dark Energy Survey, the migration of stellar-mass black holes and subsequent mergers in active galactic nuclei using Rebound, and the births and deaths of Wolf-Rayet binaries. 
+Currently I'm working on modelling the colliding wind nebulae of massive stars using my own fast and differentiable model built with JAX. Take a look at it [here!](https://github.com/ryanwhite1/xenomorph) (There are pretty pictures)
 - 😄 Pronouns: he/him
-- 📫 How to reach me: [email](ryan.white@uq.edu.au) (or show up to class!)
+- 📫 How to reach me: [email](ryan.white.astro@gmail.com) (or show up to class!)
 <!--
 **ryanwhite1/ryanwhite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
