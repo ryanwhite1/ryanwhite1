@@ -5,7 +5,7 @@ I've developed course materials for the University of Queensland's astrophysics 
 
 Currently I'm working on modelling the colliding wind nebulae of massive stars using my own fast and differentiable model built with JAX. Take a look at it [here!](https://github.com/ryanwhite1/xenomorph) (There are pretty pictures)
 - 😄 Pronouns: he/him
-- 📫 How to reach me: [email](ryan.white.astro@gmail.com) (or show up to class!)
+- 📫 How to reach me: [email](mailto:ryan.white.astro@gmail.com) (or show up to class!)
 <!--
 **ryanwhite1/ryanwhite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
